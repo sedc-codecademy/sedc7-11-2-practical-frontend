@@ -10,3 +10,5 @@ Welcome to the first class of this elective subject.
 You can find all of the needed images for the first exercise in the folter of this class's repo, the font needed for this exercise is *Lato*, you can easily find it and include it in the html file by using Google Fonts.
 
 Please try to do this exercise on your own and don't be afraid to ask me for any guidance if needed.
+
+# Email: jovana.siskovska@yahoo.com
