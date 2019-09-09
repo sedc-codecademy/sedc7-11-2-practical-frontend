@@ -1,4 +1,4 @@
-# Good vs Bad Practices 
+# Bad Practices 
 * Camel Case classes
 * Over wrapped element (too many parent elements)
 * Too many manipulations to the body class
