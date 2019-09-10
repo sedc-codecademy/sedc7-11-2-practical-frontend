@@ -1,0 +1,12 @@
+.brick {
+    background-color: #ab2129;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
