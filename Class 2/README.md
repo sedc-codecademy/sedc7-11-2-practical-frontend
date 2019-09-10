@@ -3,18 +3,18 @@
 * Over wrapped element (too many parent elements)
 * Too many manipulations to the body class
 * Targeting elements using id selectors in CSS
-* Not using semantic HTML5 tags 
+* Not using [semantic HTML5 tags](https://www.lifewire.com/why-use-semantic-html-3468271) 
 * Over-Qualifying Selectors
-*  Not Using Shorthand Properties
+* Not Using Shorthand Properties
 * Abusing position absolute
 * Using 0px instead of 0
-*  Using Color Names Instead of Hexadecimal
-*  Redundant Properties (duplicating the same properties for two different classes)
+* Using Color Names Instead of Hexadecimal
+* Redundant Properties (duplicating the same properties for two different classes)
 * Unnecessary Whitespace (Both HTML & CSS)
 * Random names of classes
 * Random names of files
 * Random folder structure
-*  Not Organizing Your CSS in a Logical Way
+* Not Organizing Your CSS in a Logical Way
 * Using Only One Stylesheet for Everything
 * Using fixed width and height
 * Using line height values in pixels
@@ -22,7 +22,7 @@
 * Forgetting to Close a Tag
 * CODE INDENTATION!!!!!
 * Using Inline Styles
-*  Incorrectly Using Positioning
+* Incorrectly Using Positioning
 * Using button elements for every button (we use button elements only when that action is connected to some logic on the site, for example an AJAX request or sending some information to the backend, in every other case, we use anchor tags)
 * Using float property
 
