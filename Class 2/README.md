@@ -3,7 +3,7 @@
 * Over wrapped element (too many parent elements)
 * Too many manipulations to the body class
 * Targeting elements using id selectors in CSS
-* Not using [semantic HTML5 tags](https://www.lifewire.com/why-use-semantic-html-3468271) 
+* Not using [semantic HTML5 tags](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 * Over-Qualifying Selectors
 * Not Using Shorthand Properties
 * Abusing position absolute
