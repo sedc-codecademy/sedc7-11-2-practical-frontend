@@ -31,10 +31,11 @@
     - [align-items](https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg): align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end;
     - [align-content](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg): flex-start | flex-end | center | space-between | space-around | [space-evenly](https://miro.medium.com/max/1371/1*fhYwLvT31aGgc98PmiboyQ.gif) | stretch | start | end | baseline | first baseline | last baseline
 
-[Follow this amazing tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2) for more info about this display property.
-
 ## Homework
 - After this class, your job would be to exercise today's material by playing [this game](https://flexboxfroggy.com/). Please send me an email, after you finish, with a screenshot of the last level and the amount of time you needed to complete all levels.
 
+## Additional Links
+
 > * [Additional link about display properties](https://medium.com/better-programming/understanding-css-display-none-block-inline-and-inline-block-63f6510df93)
 > * [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+> * [Follow this amazing tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2) for more info about this display property.
