@@ -39,3 +39,4 @@
 > * [Additional link about display properties](https://medium.com/better-programming/understanding-css-display-none-block-inline-and-inline-block-63f6510df93)
 > * [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 > * [Follow this amazing tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2) for more info about this display property.
+> * [Mache Project Example](http://codeart.rocks/joka/mache/)
