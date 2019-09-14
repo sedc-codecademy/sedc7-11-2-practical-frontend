@@ -4,7 +4,7 @@
 - You can use bootstrap grid (ONLY GRID), it's not mandatory.
 - All of the images are sliced out and you can find them in the images folder for every project.
 - The project MUST be responsive.
-- All of the icons in the project need to be added using [Font Awesome](https://fontawesome.com/), or you can download them by searching each icon on [Flaticon](https://www.flaticon.com/).
+- All of the icons in the project need to be added using [Font Awesome](https://fontawesome.com/), please include [this link](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css), or you can download them by searching each icon on [Flaticon](https://www.flaticon.com/).
 - If you have any questions, please, send me an email.
 - Durring the classes, I will be working on Project 05. Please download that folder aswell.
 
