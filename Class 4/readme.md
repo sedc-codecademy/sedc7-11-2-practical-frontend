@@ -12,3 +12,5 @@
 
 
 >  ### The project deadline is *30th of September.*   Please carefully estimate your time and please try to send me the project as soon as possible.
+
+> Please send your projects to my email, and to snaskova094@gmail.com.
