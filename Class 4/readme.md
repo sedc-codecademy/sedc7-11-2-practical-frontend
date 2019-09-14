@@ -6,6 +6,7 @@
 - The project MUST be responsive.
 - All of the icons in the project need to be added using [Font Awesome](https://fontawesome.com/), or you can download them by searching each icon on [Flaticon](https://www.flaticon.com/).
 - If you have any questions, please, send me an email.
+- Durring the classes, I will be working on Project 05. Please download that folder aswell.
 
 # [Projects Link](https://drive.google.com/drive/folders/17RCT5mVvJpJykktQ1tXIvpkbQgIzx0t9?usp=sharing)
 
