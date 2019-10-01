@@ -5,6 +5,7 @@
 - open terminal (editor or powershell) in the previously downloaded starter folder 
 - npm install
 - npm install gulp
+- npm install -g gulp
 - npm install gulp-sass
 - npm install gulp-sourcemaps
 - npm install gulp-clean-css
