@@ -1,0 +1,19 @@
+
+$white: #fff;
+$black: #000;
+$green: #1abc9c;
+$blue: #3498db;
+$red: #e74c3c;
+$grey: #34495e;
+
+$green-hover-light: lighten($green, 5%);
+$green-hover-dark: darken($green, 10%);
+
+$blue-hover-light: lighten($blue, 5%);
+$blue-hover-dark: darken($blue, 10%);
+
+$red-hover-light: lighten($red, 5%);
+$red-hover-dark: darken($red, 10%);
+
+$grey-hover-light: lighten($grey, 5%);
+$grey-hover-dark: darken($grey, 10%);
