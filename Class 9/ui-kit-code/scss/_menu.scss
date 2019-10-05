@@ -1,0 +1,44 @@
+@import 'variables';
+
+.navigation {
+  width: 100%;
+  border-radius: 10px;
+  position: relative;
+
+  .menu-item {
+    display: inline-block;
+    padding: 15px;
+
+    &:hover {
+      background-color: $green;
+    }
+
+    .menu-link {
+      color: $white;
+    }
+  }
+}
+
+.dropdown-menu {
+  border: 1px solid $white;
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 87px;
+  max-width: 230px;
+  border-radius: 5px;
+  padding: 5px;
+
+  .menu-item {
+    display: block;
+    padding: 11px 8px;
+    margin: 0;
+    border-radius: 3px;
+  }
+}
+
+.dropdown:hover{
+  .dropdown-menu {
+    display: block;
+  }
+}

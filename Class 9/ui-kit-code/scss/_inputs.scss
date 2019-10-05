@@ -1,0 +1,38 @@
+@import "variables";
+
+.input {
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 10px;
+  border: 2px solid;
+  width: 100%;
+}
+
+.un-active {
+  border-color: $light-grey;
+
+  &::placeholder{
+    color: $grey-02;
+  }
+}
+
+.active {
+  border-color: $green;
+
+  &::placeholder {
+    color: $grey;
+  }
+}
+
+.alert {
+  border-color: $red;
+
+  &::placeholder {
+    color: $red;
+  }
+}
+
+.disabled {
+  border-color: $grey-03;
+  background-color: $grey-03;
+}
