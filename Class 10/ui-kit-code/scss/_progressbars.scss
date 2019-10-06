@@ -1,0 +1,37 @@
+@import "variables";
+
+.progress-bar-simple {
+  background-color: $light-grey;
+  border-radius: 13px;
+  margin: 20px;
+
+  div {
+    background-color: $green;
+    width: 40%;
+    height: 20px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+}
+
+.progress-bar-complex {
+  background-color: $light-grey;
+  border-radius: 13px;
+  margin: 20px;
+
+  div {
+    background-color: $light-grey-02;
+    width: 60%;
+    height: 20px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+
+    div {
+      background-color: $green;
+      width: 80%;
+      height: 20px;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+    }
+  }
+}

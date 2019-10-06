@@ -1,0 +1,92 @@
+@import "variables";
+
+.input-container {
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+  -webkit-user-select: none;
+
+  input {
+    display: none;
+
+    &:checked {
+      & ~ .checkmark {
+        background-color: $green;
+
+        &::after {
+          display: block;
+        }
+      }
+
+      & ~ .input-name {
+        color: $green;
+      }
+    }
+
+    &:disabled {
+      & + .input-name {
+        color: $light-grey-03;
+      }
+
+      &:hover {
+        & ~ .checkmark::after {
+          display: none;
+        }
+      }
+    }
+  }
+
+  &:hover {
+    input ~ .checkmark::after {
+      display: block;
+    }
+  }
+
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color: $light-grey-02;
+
+    &.check {
+      border-radius: 6px;
+
+      &::after {
+        content: '';
+        left: 7px;
+        top: 3px;
+        width: 6px;
+        height: 11px;
+        border: solid $white;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+      }
+    }
+
+    &.radio {
+      border-radius: 50%;
+
+      &::after {
+        border-radius: 50%;
+        background-color: $white;
+        width: 10px;
+        height: 10px;
+        top: 5px;
+        left: 5px;
+      }
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      display: none;
+    }
+
+  }
+}

@@ -1,0 +1,24 @@
+
+$white: #fff;
+$black: #000;
+$green: #1abc9c;
+$blue: #3498db;
+$red: #e74c3c;
+$grey: #34495e;
+$light-grey: #dee1e3;
+$grey-02: #9aa1aa;
+$grey-03: #ebedee;
+$light-grey-02: #d7dcde;
+$light-grey-03: #c2c7c9;
+
+$green-hover-light: lighten($green, 5%);
+$green-hover-dark: darken($green, 10%);
+
+$blue-hover-light: lighten($blue, 5%);
+$blue-hover-dark: darken($blue, 10%);
+
+$red-hover-light: lighten($red, 5%);
+$red-hover-dark: darken($red, 10%);
+
+$grey-hover-light: lighten($grey, 5%);
+$grey-hover-dark: darken($grey, 10%);

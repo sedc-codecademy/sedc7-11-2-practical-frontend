@@ -1,0 +1,29 @@
+@import "variables";
+
+.bg-green {
+  background-color: $green;
+}
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.bg-red {
+  background-color: $red;
+}
+
+.bg-grey {
+  background-color: $grey;
+}
+
+.txt-grey {
+  color: $grey;
+}
+
+.txt-white {
+  color: $white;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}

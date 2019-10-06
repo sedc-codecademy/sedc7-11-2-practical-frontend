@@ -1,0 +1,19 @@
+@import "variables";
+
+.nav-sm {
+  border-radius: 10px;
+  overflow: hidden;
+
+  li {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nav-sm_img {
+    max-width: 18px;
+  }
+}
+
+.nav-sm_p { padding: 0 10px; }

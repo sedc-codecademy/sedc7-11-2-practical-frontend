@@ -1,0 +1,32 @@
+@import "variables";
+
+.pagination {
+  padding: 30px;
+
+  li {
+    margin: 7px;
+    width: 23px;
+    height: 23px;
+    border-radius: 50px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+
+    a {
+      color: $grey;
+    }
+  }
+
+  .page-number {
+    &:hover {
+      background-color: $green;
+      color: $white;
+    }
+  }
+}
+
+.page-active {
+  background-color: $light-grey;
+}

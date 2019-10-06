@@ -1,0 +1,60 @@
+@import "variables";
+
+.btn {
+  display: inline-flex;
+  max-width: 230px;
+  width: 100%;
+  color: $white;
+  border-radius: 5px;
+  padding: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.btn-green-light {
+  &:hover {
+    background-color: $green-hover-light;
+  }
+}
+
+.btn-green-dark {
+  &:hover {
+    background-color: $green-hover-dark;
+  }
+}
+
+.btn-blue-light {
+  &:hover{
+    background-color: $blue-hover-light;
+  }
+}
+
+.btn-blue-dark {
+  &:hover {
+    background-color: $blue-hover-dark;
+  }
+}
+
+.btn-red-light {
+  &:hover{
+    background-color: $red-hover-light;
+  }
+}
+
+.btn-red-dark {
+  &:hover {
+    background-color: $red-hover-dark;
+  }
+}
+
+.btn-grey-light {
+  &:hover {
+    background-color: $grey-hover-light;
+  }
+}
+
+.btn-grey-dark {
+  &:hover {
+    background-color: $green-hover-dark;
+  }
+}
